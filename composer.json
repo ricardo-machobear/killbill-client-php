@@ -1,5 +1,5 @@
 {
-    "name": "killbill/killbill-client",
+    "name": "machobearstudio/killbill-client",
     "description": "Official PHP client to the Killbill HTTP API",
     "type": "library",
     "keywords": [
